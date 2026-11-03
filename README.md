@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mohamud Jama 👋
 
-<!--
-**mohamud-labs/mohamud-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BSIT Student | Aspiring Cybersecurity & Networking Specialist
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 BSIT Student at Bahria University, Islamabad.
+- 🌍 From Somalia.
+- 💻 Learning programming and Information Technology.
+- 🌐 Interested in Computer Networking.
+- 🔐 Exploring Cybersecurity.
+
+## 🛠️ Technical Skills
+- C++
+- Object-Oriented Programming (OOP)
+- HTML & CSS
+- Git & GitHub
+- Computer Networking Fundamentals
+
+## 📚 University Projects
+- Semester 1: C++ Project
+- Semester 2: OOP Project
+
+## 🎯 Career Goal
+My goal is to become a Cybersecurity or Networking Specialist.
+
+I am continuously learning, practicing and building projects to improve my technical skills.
+
+## 📫 Connect With Me
+- GitHub: [My Profile](https://github.com/mohamud-labs)
